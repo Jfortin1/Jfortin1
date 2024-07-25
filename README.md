@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 I'm currently a Senior Principal Scientist and Group Leader in the gRED Computational Sciences Hub at Genentech.
 My group focuses on developing robust and modular software tools for implementing computational methods applied to large genomics data. 
 
