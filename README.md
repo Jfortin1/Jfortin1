@@ -7,6 +7,8 @@ Before joining Genentech in 2017, I first got my PhD degree in Biostatistics at 
 
 ### As maintainer
 
+|Package|BioC-release|BioC-devel|Description
+|---|---|---|---|
 |[crisprVerse](https://github.com/crisprVerse/crisprVerse)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/crisprVerse.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/crisprVerse/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/crisprVerse.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/crisprVerse/)|Easily install of the crisprVerse ecosystem|
 |[crisprDesign](https://github.com/crisprVerse/crisprDesign)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/crisprDesign.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/crisprDesign/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/crisprDesign.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/crisprDesign/)|Core gRNA design package across nucleases and applications|
 |[crisprBase](https://github.com/crisprVerse/crisprBase)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/crisprBase.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/crisprBase/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/crisprBase.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/crisprBase/)|Base functions and classes for CRISPR gRNA design|
