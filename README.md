@@ -37,6 +37,14 @@ Before Genentech, I got my PhD degree in Biostatistics at Johns Hopkins Universi
 |[ARRmNormalization](https://github.com/Jfortin1/ARRmNormalization)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/ARRmNormalization.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/ARRmNormalization/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/ARRmNormalization.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/ARRmNormalization/)|Normalization for methylation arrays|
 |[shinyMethyl](https://github.com/Jfortin1/shinyMethyl)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/shinyMethyl.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/shinyMethyl/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/shinyMethyl.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/shinyMethyl/)|Interactive visualization for Illumina methylation arrays|
 
+
+### As contributor
+
+|Package|BioC-release|BioC-devel|Description
+|---|---|---|---|
+|[minfi](https://github.com/hansenlab/minfi)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/minfi.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/minfi/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/minfi.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/minfi/)|Analyze Illumina Infinium DNA methylation arrays|
+|[screenCounter](https://github.com/crisprverse/minfi)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/screenCounter/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/screenCounter/)|Counting Reads in High-Throughput Sequencing Screens|
+
 ## [Neuroconductor](https://neuroconductor.org) contributions
 
 ### As maintainer
