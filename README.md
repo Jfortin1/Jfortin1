@@ -3,7 +3,9 @@ My group focuses on developing robust and modular software tools for implementin
 Selected works:
 - [crisprVerse: design of CRISPR guide RNAs across nucleases and technologies](https://www.nature.com/articles/s41467-022-34320-7), *Nature Communications*
 - [Biases in genome-wide pooled CRISPR screening](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1621-7), *Genome Biology*
+- [Enhanced scalable mutagenic base editor platform](https://www.cell.com/cell-reports/fulltext/S2211-1247(24)00641-7), *Cell Reports*
 - [AsCas12a ultra-compact CRISPR screening libraries](https://www.biorxiv.org/content/10.1101/2024.05.30.596755.abstract), *bioRxiv*
+
 
 Before Genentech, I got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works from my PhD and Postdoc:
 
