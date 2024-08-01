@@ -1,16 +1,17 @@
 I'm currently a Senior Principal Scientist and Group Leader in the gRED Computational Sciences Hub at Genentech.
 My group focuses on developing robust and modular software tools for implementing computational methods applied to large genomics data. 
 
-Before joining Genentech in 2017, I first got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. Selected works: 
+
+
+Before joining Genentech in 2017, I first got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works:
+
 - [Functional normalization for methylation arrays (minfi)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0503-2), *Genome Biology*
 - [Hi-C reconstruction from methylation data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0741-y), *Genome Biology*
 - [Processing of Illumina EPIC arrays](https://pubmed.ncbi.nlm.nih.gov/28035024/), *Bioinformatics*
 - [shinyMethy: interactive visualization of methylation arrays](https://www.google.com/search?q=shinymethyl+f1000&client=safari&sca_esv=2d0ef86f978a5b91&sca_upv=1&rls=en&sxsrf=ADLYWIKA0JSaPQZcATsYk0wPQQ-OmEsLfQ%3A1722444967776&ei=p2yqZo2JL46V0PEP7tCjoAQ&ved=0ahUKEwjN-MvD39GHAxWOCjQIHW7oCEQQ4dUDCBE&uact=5&oq=shinymethyl+f1000&gs_lp=Egxnd3Mtd2l6LXNlcnAiEXNoaW55bWV0aHlsIGYxMDAwMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKMgcQIRigARgKSKMLUNMEWKcKcAF4AJABAJgBc6ABxgSqAQM2LjG4AQPIAQD4AQGYAgegArAEwgIIEAAYgAQYsAPCAgsQABiABBiwAxiiBMICBRAhGKsCmAMAiAYBkAYFkgcDNi4xoAeYHg&sclient=gws-wiz-serp), *F1000Research*
-
-I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works:
-- [Harmonization of structural MRI](https://www.sciencedirect.com/science/article/pii/S1053811916001452)
-- [Harmonization of DTI](https://pubmed.ncbi.nlm.nih.gov/28826946/)
-- [Harmonization of cortical thickness measurements](https://pubmed.ncbi.nlm.nih.gov/29155184/)
+- [Harmonization of structural MRI](https://www.sciencedirect.com/science/article/pii/S1053811916001452), *Neuroimage*
+- [Harmonization of DTI](https://pubmed.ncbi.nlm.nih.gov/28826946/), *Neuroimage*
+- [Harmonization of cortical thickness measurements](https://pubmed.ncbi.nlm.nih.gov/29155184/), *Neuroimage*
 
 
 ## [Bioconductor](https://bioconductor.org) contributions
