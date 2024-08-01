@@ -5,7 +5,7 @@ Selected works:
 - [Biases in genome-wide pooled CRISPR screening](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1621-7), *Genome Biology*
 - [AsCas12a ultra-compact CRISPR screening libraries](https://www.biorxiv.org/content/10.1101/2024.05.30.596755.abstract), *bioRxiv*
 
-Before joining Genentech in 2017, I first got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works from my PhD and Postdoc:
+Before Genentech, I got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works from my PhD and Postdoc:
 
 - [Functional normalization for methylation arrays (minfi)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0503-2), *Genome Biology*
 - [Hi-C reconstruction from methylation data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0741-y), *Genome Biology*
