@@ -3,7 +3,7 @@ My group focuses on developing robust and modular software tools for implementin
 
 
 
-Before joining Genentech in 2017, I first got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works:
+Before joining Genentech in 2017, I first got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works from my PhD and Postdoc:
 
 - [Functional normalization for methylation arrays (minfi)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0503-2), *Genome Biology*
 - [Hi-C reconstruction from methylation data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0741-y), *Genome Biology*
