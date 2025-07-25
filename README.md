@@ -1,6 +1,6 @@
 I'm currently a Senior Principal Scientist and Group Leader in the gRED Computational Sciences Hub at Genentech.
 My group focuses on developing robust and modular software tools for implementing computational methods applied to functional genomics data. 
-Check out our [crisprVerse work](https://github.com/crisprVerse). Selected works:
+Check out our [crisprVerse work](https://github.com/crisprVerse). Selected CRISPR-related publications:
 - [crisprVerse: design of CRISPR guide RNAs across nucleases and technologies](https://www.nature.com/articles/s41467-022-34320-7), *Nature Communications*
 - [enAsCas12a ultra-compact CRISPR screening libraries](https://www.nature.com/articles/s41467-025-56282-2), *Nature Communications*
 - [Biases in genome-wide pooled CRISPR screening](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1621-7), *Genome Biology*
