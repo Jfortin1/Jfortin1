@@ -1,6 +1,5 @@
-I'm currently a Senior Principal Scientist and Group Leader in the gRED Computational Sciences Hub at Genentech.
-My group focuses on developing robust and modular software tools for implementing computational methods applied to functional genomics data. 
-Check out our [crisprVerse work](https://github.com/crisprVerse). Selected CRISPR-related publications:
+Before freelancing, I spent a decade at Genentech as a Senior Principal Scientist and Group Leader in the gRED Computational Sciences Hub, working across biostatistics, scientific software engineering, and team leadership to build scalable, modular tools for functional genomics. Check out our [crisprVerse](https://github.com/crisprVerse). Selected CRISPR-related publications:
+
 - [crisprVerse: design of CRISPR guide RNAs across nucleases and technologies](https://www.nature.com/articles/s41467-022-34320-7), *Nature Communications*
 - [enAsCas12a ultra-compact CRISPR screening libraries](https://www.nature.com/articles/s41467-025-56282-2), *Nature Communications*
 - [Biases in genome-wide pooled CRISPR screening](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1621-7), *Genome Biology*
@@ -8,8 +7,7 @@ Check out our [crisprVerse work](https://github.com/crisprVerse). Selected CRISP
 - [Genome-wide murine CRISPR activation (CRISPRa) libraries](https://www.biorxiv.org/content/10.1101/2025.07.22.666069v1), *bioRxiv*
 
 
-
-Before Genentech, I got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works from my PhD and Postdoc:
+And before Genentech, I got my PhD degree in Biostatistics at Johns Hopkins University under the supervision of [Dr. Kasper Hansen](https://www.hansenlab.org), during which I focused on developing statistical methodology for the analysis of methylation array. I then pursued a postdoctoral degree in Neuroinformatics at the University of Pennsylvania with [Dr. Taki Shinohara](https://www.dbeicoe.med.upenn.edu/pennsive). My work focused on the multi-scanner harmonization and normalization of different neuroimaging modalities (MRI, DTI, etc). Selected works from my academic life:
 
 - [Functional normalization for methylation arrays (minfi)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0503-2), *Genome Biology*
 - [Hi-C reconstruction from methylation data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0741-y), *Genome Biology*
