@@ -50,3 +50,14 @@ Before Genentech, I got my PhD degree in Biostatistics at Johns Hopkins Universi
 ## [Neuroconductor](https://neuroconductor.org) contributions
 
 ### As maintainer
+
+|Package|Description
+|---|---|
+|[EveTemplate](https://github.com/Jfortin1/EveTemplate)| JHU-MNI-ss (Eve) Template
+|[MNITemplate](https://github.com/Jfortin1/EveTemplate)| MNI152 Template
+|[RAVEL](https://github.com/Jfortin1/RAVEL)| Intensity normalization of structural MRIs using RAVEL
+|[RAVELData](https://github.com/Jfortin1/RAVELData)| Companion data for RAVEL package
+|[neuroCombat](https://github.com/Jfortin1/neuroCombat_Rpackage)| neuroComBat harmonization in R
+|[neuroCombatData](https://github.com/Jfortin1/neuroCombatData)| Companion data for neuroCombat
+
+
