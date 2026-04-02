@@ -45,7 +45,7 @@ Before Genentech, I got my PhD degree in Biostatistics at Johns Hopkins Universi
 |Package|BioC-release|BioC-devel|Description
 |---|---|---|---|
 |[minfi](https://github.com/hansenlab/minfi)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/minfi.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/minfi/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/minfi.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/minfi/)|Analyze Illumina Infinium DNA methylation arrays|
-|[screenCounter](https://github.com/crisprverse/minfi)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/screenCounter/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/screenCounter/)|Counting Reads in High-Throughput Sequencing Screens|
+|[screenCounter](https://github.com/crisprverse/screencounter)|[![Release OK](https://bioconductor.org/shields/build/release/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/screenCounter/)|[![Devel OK](https://bioconductor.org/shields/build/devel/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/screenCounter/)|Counting Reads in High-Throughput Sequencing Screens|
 
 ## [Neuroconductor](https://neuroconductor.org) contributions
 
