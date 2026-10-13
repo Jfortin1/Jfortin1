@@ -1,4 +1,4 @@
-Before freelancing, I spent a decade at Genentech as a Senior Principal Scientist and Group Leader in the gRED Computational Sciences Hub, working across biostatistics, scientific software engineering, and team leadership to build scalable, modular tools for functional genomics. Check out our [crisprVerse](https://github.com/crisprVerse). Selected CRISPR-related publications:
+Before freelancing, I spent almost a decade at Genentech as a Senior Principal Scientist and Group Leader in the gRED Computational Sciences Hub, working across biostatistics, scientific software engineering, and team leadership to build scalable, modular tools for functional genomics. Check out our [crisprVerse](https://github.com/crisprVerse). Selected CRISPR-related publications:
 
 - [crisprVerse: design of CRISPR guide RNAs across nucleases and technologies](https://www.nature.com/articles/s41467-022-34320-7), *Nature Communications*
 - [enAsCas12a ultra-compact CRISPR screening libraries](https://www.nature.com/articles/s41467-025-56282-2), *Nature Communications*
